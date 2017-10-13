@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mrjgreen/db-sync": "^3.3"
+    }
+}
